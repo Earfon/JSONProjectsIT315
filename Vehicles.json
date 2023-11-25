@@ -1,7 +1,7 @@
 {
   "Vehicles":
 [
-  {"VehMake":"Toyota",VehModel":"Camry","VehYear":"2016","VehEngine":"6AR-FSE","VehImage":"https://raw.githubusercontent.com/Earfon/JSONProjectsIT315/main/camry.jpg"}
+  {"VehMake":"Toyota","VehModel":"Camry","VehYear":"2016","VehEngine":"6AR-FSE","VehImage":"https://raw.githubusercontent.com/Earfon/JSONProjectsIT315/main/camry.jpg"}
   {"VehMake":"Toyota","VehModel":"Tundra","VehYear":"2008","VehEngine":"2UZ-FE","VehImage":"https://raw.githubusercontent.com/Earfon/JSONProjectsIT315/main/tundra.jpg"}
   {"VehMake":"Lexus","VehModel":"ISF","VehYear":"2008","VehEngine":"2UR-GSE","VehImage":"https://raw.githubusercontent.com/Earfon/JSONProjectsIT315/main/isf.jpg"}
   {"VehMake":"Yamaha","VehModel":"Banshee","VehYear":"2006","VehEngine":"350","VehImage":"https://raw.githubusercontent.com/Earfon/JSONProjectsIT315/main/banshee.jpg"}
